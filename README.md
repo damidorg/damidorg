@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in new software <br>learning embedded rust<br><br>I USE NIX BDW
+Interested in new software <br><br>I USE NIX BDW
 
 
 ## 🌐 Socials:
